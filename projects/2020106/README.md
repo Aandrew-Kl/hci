@@ -34,16 +34,31 @@
 
 
 
-[![asciicast](https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y)](https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y)
+https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y
 
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο A1
+https://github.com/Aandrew-Kl/images/blob/an_branch/IBM_Simon.png
+https://github.com/Aandrew-Kl/images/blob/an_branch/IBM_Simon_thumb.png
+
+https://github.com/Aandrew-Kl/images/blob/an_branch/DSmallLinuxThumb.png
+https://github.com/Aandrew-Kl/images/blob/an_branch/DSmallLinux.png
 
 
 
-https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk
 
-https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp
+
+
+## ΠΑΡΑΔΟΤΕΟ 4 | Άσκηση γραμμής εντολών (warm up cli)
+[asciinema](https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk)
+[asciinema](https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp)
+
+
+## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A2
+
+## ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου Α
+
+
 
 
 
