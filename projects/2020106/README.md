@@ -32,9 +32,10 @@
 ## ΠΑΡΑΔΟΤΕΟ 2 | Άσκηση γραμμής εντολών (linux install)
 Για την εγκατάσταση των Arch Linux  επέλεξα την εγκατάσταση σε ένα φλασάκι(64gb 3.0). Για να υλοποιηθεί αυτή η διαδικασία έπρεπε πρώτα να κατεβάσω σε ένα φλασάκι τα Arch Linux Iso και συγκεκριμένα του Μετσόβιου Πανεπιστημίου από την επίσημη σελίδα του Arch Linux
 
+<a href="https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y" target="_blank"><img src="https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y.svg" /></a>
 
 
-https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y
+
 
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο A1
