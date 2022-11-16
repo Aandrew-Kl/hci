@@ -50,8 +50,10 @@ https://github.com/Aandrew-Kl/images/blob/an_branch/DSmallLinux.png
 
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Άσκηση γραμμής εντολών (warm up cli)
-[asciinema](https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk)
-[asciinema](https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp)
+<a href="https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk" target="_blank"><img src="https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk.svg" /></a>
+
+<a href="https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp" target="_blank"><img src="https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp.svg" /></a>
+
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A2
