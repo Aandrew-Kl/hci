@@ -61,6 +61,19 @@ https://github.com/Aandrew-Kl/images/blob/an_branch/DSmallLinux.png
 
 ## ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου Α
 
+Για το παραδοτέο Νο6 έκανα τις απαραίτητες αλλαγές στο make-latex.sh για να φτιάξω το βιβλίο σε μορφή latex και στην συνέχεια δημιούργησα το αρχείο make-pdf.sh για να μετατρέψω το αρχείο latex σε pdf.
+
+Για την συνεισφορά αποφάσισα να προσθέσω το complexity του κάθε κεφαλαίου ώστε να διευκολύνω τον αναγνώστη. 
+Αυτό το πέτυχα δημιουργώντας το αρχείο complexity.lua βασισμένο στο αρχείο figure.lua και εισάγοντας την αντίστοιχη σημείωση δυσκολίας στην αρχή κάθε κεφαλαίου.
+
+**Παραδοτέα**
+
+- [PDF](https://github.com/Aandrew-Kl/kallipos/blob/master/book.pdf)
+- [make-latex.sh](https://github.com/Aandrew-Kl/kallipos/blob/master/make-latex.sh)
+- [lua filter](https://github.com/Aandrew-Kl/kallipos/blob/master/complexity.lua)
+- [contribution](https://github.com/Aandrew-Kl/_book_complexity)
+- [make-pdf.sh](https://github.com/Aandrew-Kl/kallipos/blob/master/make-pdf.sh)
+
 
 
 
