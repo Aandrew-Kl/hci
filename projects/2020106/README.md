@@ -39,12 +39,16 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο A1
-https://github.com/Aandrew-Kl/images/blob/an_branch/IBM_Simon.png
-https://github.com/Aandrew-Kl/images/blob/an_branch/IBM_Simon_thumb.png
+Για το παραδοτέο Νο3 αποφάσισα να ασχοληθώ με το λειτουργικό συστήμα DamnSmallLinux και με το πρώτο smartphone που κυκλοφόρησε στην αγορά το IBMSimon
+- gallery
+[damn-small-linux](https://github.com/Aandrew-Kl/_gallery/blob/an_branch/damn-small-linux.md)
+[ibm-simon](https://github.com/Aandrew-Kl/_gallery/blob/an_branch/ibm-simon.md)
 
-https://github.com/Aandrew-Kl/images/blob/an_branch/DSmallLinuxThumb.png
-https://github.com/Aandrew-Kl/images/blob/an_branch/DSmallLinux.png
-
+- images
+[damn-small-linux-image](https://github.com/Aandrew-Kl/images/blob/an_branch/damn-small-linux.png)
+[damn-small-linux-thumb](https://github.com/Aandrew-Kl/images/blob/an_branch/damn-small-linux-thumb.png)
+[ibm-simon-image](https://github.com/Aandrew-Kl/images/blob/an_branch/ibm-simon.png)
+[ibm-simon-thumb](https://github.com/Aandrew-Kl/images/blob/an_branch/ibm-simon-thumb.png)
 
 
 
