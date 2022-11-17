@@ -14,7 +14,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 | [ΣΥΜΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ 1Α](https://github.com/courses-ionio/help/discussions/1210?fbclid=IwAR22VQOM7crRmPf3F3HQ50S2erMMZiyc3lr3j3G5LVSUywqZY3FKETAf-fw)| |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | [ΑΣΚΗΣΗ ΓΡΑΜΜΗΣ ΕΝΤΟΛΩΝ 2](https://github.com/courses-ionio/help/discussions/1644)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[ΚΑΤΑΣΚΕΥΗ ΒΙΒΛΙΟΥ Α](https://github.com/courses-ionio/help/discussions/1609) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
