@@ -2,7 +2,7 @@
 ###  Ονοματεπώνυμο: ΑΝΔΡΕΑΣ ΚΛΗΜΕΝΤΙΔΗΣ
 ###  Αριθμός Μητρώου: Π2020106
 ###  GitHub Profile: [Aandrew-Kl](https://github.com/Aandrew-Kl)
-###  Edpuzzle profile: Username:2020106_
+###  Edpuzzle Username:2020106_
 
 
 
