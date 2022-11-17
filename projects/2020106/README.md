@@ -86,6 +86,18 @@
 - [make-pdf.sh](https://github.com/Aandrew-Kl/kallipos/blob/master/make-pdf.sh)
 
 
+## ΣΥΜΜΕΤΟΧΗ ΣΤΗΝ ΤΑΞΗ
+
+
+
+|ΚΑΤΗΓΟΡΙΑ ΒΟΗΘΕΙΑΣ | ΑΡΙΘΜΟΣ ΠΑΡΑΔΟΤΕΟΥ | LINK
+| --- | --- | --- |
+| HELP COMMENT | 3 |[LINK](https://github.com/courses-ionio/help/discussions/1183#discussioncomment-4166162)| 
+| HELP COMMENT | 6 |[LINK](https://github.com/courses-ionio/help/discussions/1567#discussioncomment-4127872)|   
+| TEAM-HELP COMMENT | 6 |[LINK](https://github.com/TEAM11234/help/discussions/3?fbclid=IwAR1Lqlqf37Bb7vAwcb017rJjt8Tmyw1qPiJtAO5k1imqf23U9vHvaqT1mzs)
+
+
+
 
 
 
