@@ -30,7 +30,10 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 2 | Άσκηση γραμμής εντολών (linux install)
-Για την εγκατάσταση των Arch Linux  επέλεξα την εγκατάσταση σε ένα φλασάκι(64gb 3.0). Για να υλοποιηθεί αυτή η διαδικασία έπρεπε πρώτα να κατεβάσω σε ένα φλασάκι τα Arch Linux Iso και συγκεκριμένα του Μετσόβιου Πανεπιστημίου από την επίσημη σελίδα του Arch Linux
+Στο συγκεκριμένο παραδοτέο καλουμαστε να εγκαταστήσουμε το λειτουργικό σύστημα arch linux. Ήταν μια απαιτητική διαδικασία αλλά βρίσκοντας τα σωστά εργαλεία όλα ήταν πιο εύκολα. Αρχικά κατέβασα σε ένα φλασάκι τα   ίσο αααα του Μετσόβιου Πολυτεχνείου () και τα έκαψα με ένα πρόγραμμα το εεεερρ. Έπειτα παρακολούθησα το συγκεκριμένο tutorial και το οποίο ήταν πολύ καθοδηγητικό και κατάφερα να τα εγκαταστήσω με επιτυχία. Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι το φλασάκι που ήθελα να περάσω τα arch linux έφτιαχνε δικά του partitions τα οποία ήταν άδεια. Η λύση του προβλήματος ήταν αρκετά απλά και ακολούθησα τις συγκεκριμένες οδηγίες για να καταφέρω να σβήσω τα συγκεκριμένα partitions
+
+Έπειτα εκτέλεσα την εντολή neofetch στην οποία στα δεξιά βλέπουμε τα χαρακτηριστικά του λογισμικού μου και στα αριστερά το λογότυπο της διανομής arch linux
+
 
 <a href="https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y" target="_blank"><img src="https://asciinema.org/a/JPsz1RY090XGrsaZib8PNp83y.svg" /></a>
 
@@ -39,7 +42,7 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο A1
-Για το παραδοτέο Νο3 αποφάσισα να ασχοληθώ με το λειτουργικό συστήμα DamnSmallLinux και με το πρώτο smartphone που κυκλοφόρησε στην αγορά το IBMSimon
+Για το παραδοτέο Νο3 αποφάσισα να ασχοληθώ με το λειτουργικό συστήμα DamnSmallLinux για να έρθω σε επαφή με περισσότερες διανομές των linux και με το πρώτο smartphone που κυκλοφόρησε στην αγορά το IBMSimon
 - gallery
 [damn-small-linux](https://github.com/Aandrew-Kl/_gallery/blob/an_branch/damn-small-linux.md)
 [ibm-simon](https://github.com/Aandrew-Kl/_gallery/blob/an_branch/ibm-simon.md)
@@ -55,10 +58,15 @@
 
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Άσκηση γραμμής εντολών (warm up cli)
-<a href="https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk" target="_blank"><img src="https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk.svg" /></a>
+Στο συγκεκριμένο παραδοτέο καλουμαστε να επιλέξουμε 2 warm up εντολές 
+
+Επέλεξα την εντολή youtube-dl για να κατεβάσω ένα βίντεο από το YouTube
 
 <a href="https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp" target="_blank"><img src="https://asciinema.org/a/NVJsgLOoIA3ZtrCtha6f4RnPp.svg" /></a>
 
+Και την εντολή curl wttr.in/(πόλη) για να δω τον καιρό συγκεκριμένα της Κέρκυρας
+
+<a href="https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk" target="_blank"><img src="https://asciinema.org/a/1zsfnZcDub8SRh0R7Ti44BOwk.svg" /></a>
 
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A2
