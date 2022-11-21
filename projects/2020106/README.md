@@ -44,13 +44,19 @@
 ## ΠΑΡΑΔΟΤΕΟ 3 | Συμμετοχικό περιεχόμενο A1
 Για το παραδοτέο Νο3 αποφάσισα να ασχοληθώ με το λειτουργικό συστήμα DamnSmallLinux για να έρθω σε επαφή με περισσότερες διανομές των linux και με το πρώτο smartphone που κυκλοφόρησε στην αγορά το IBMSimon
 - gallery
+
 [damn-small-linux](https://github.com/Aandrew-Kl/_gallery/blob/an_branch/damn-small-linux.md)
+
 [ibm-simon](https://github.com/Aandrew-Kl/_gallery/blob/an_branch/ibm-simon.md)
 
 - images
+
 [damn-small-linux-image](https://github.com/Aandrew-Kl/images/blob/an_branch/damn-small-linux.png)
+
 [damn-small-linux-thumb](https://github.com/Aandrew-Kl/images/blob/an_branch/damn-small-linux-thumb.png)
+
 [ibm-simon-image](https://github.com/Aandrew-Kl/images/blob/an_branch/ibm-simon.png)
+
 [ibm-simon-thumb](https://github.com/Aandrew-Kl/images/blob/an_branch/ibm-simon-thumb.png)
 
 
@@ -72,10 +78,15 @@
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό περιεχόμενο A2
 Στο συγκεκριμένο παραδοτέο πρόσθεσα στο ibm-simon και το damn-small-linux στο χρονολόγιο και στις θεματικές διαφανείες της ιστοσελίδας. Για τις ανάγκες του παραδοτέου πρόσθεσα μια νεα κατηγορία στις θεματικές διαφάνειες με όνομα os.md
 - Θεματικές διαφάνιες : 
+
 [ibm-simon-technology](https://github.com/Aandrew-Kl/site/blob/an_branch/_slides/technology.md)
+
 [damn-small-linux-os](https://github.com/Aandrew-Kl/site/blob/an_branch/_slides/os.md)
+
 - Χρονολόγιο :
+
 [damn-small-linux-os-apps](https://github.com/Aandrew-Kl/site/blob/an_branch/_timeline/os-apps.md)
+
 [ibm-simon-technology-mobile](https://github.com/Aandrew-Kl/site/blob/an_branch/_timeline/mobile)
 
 ## ΠΑΡΑΔΟΤΕΟ 6 | Κατασκευή του βιβλίου Α
@@ -100,7 +111,6 @@
 
 |ΚΑΤΗΓΟΡΙΑ ΒΟΗΘΕΙΑΣ | ΑΡΙΘΜΟΣ ΠΑΡΑΔΟΤΕΟΥ | LINK
 | --- | --- | --- |
-| HELP COMMENT | 3 |[LINK](https://github.com/courses-ionio/help/discussions/1183#discussioncomment-4166162)| 
 | HELP COMMENT | 6 |[LINK](https://github.com/courses-ionio/help/discussions/1567#discussioncomment-4127872)|   
 | TEAM-HELP COMMENT | 6 |[LINK](https://github.com/TEAM11234/help/discussions/3?fbclid=IwAR1Lqlqf37Bb7vAwcb017rJjt8Tmyw1qPiJtAO5k1imqf23U9vHvaqT1mzs)
 
